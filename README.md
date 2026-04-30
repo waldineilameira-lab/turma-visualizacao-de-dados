@@ -32,4 +32,4 @@ Consulte o [CONTRIBUTING.md](CONTRIBUTING.md) para mais detalhes.
 
 ## 📬 Dúvidas
 
-Abra uma **Issue** neste repositório descrevendo sua dúvida.
+Abra uma **Issue** neste repositório descrevendo sua dúvida...
