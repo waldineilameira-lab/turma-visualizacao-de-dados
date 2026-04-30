@@ -12,10 +12,10 @@ Fazendo teste de novo request
 ## Checklist
 
 - [X] Meus arquivos estão dentro da minha pasta em `alunos/nome-sobrenome/`
-- [ ]  Não modifiquei arquivos de outros alunos
-- [ ] Os arquivos têm nomes descritivos (sem espaços)
-- [ ] O código roda sem erros
+- [X]  Não modifiquei arquivos de outros alunos
+- [X] Os arquivos têm nomes descritivos (sem espaços)
+- [X] O código roda sem erros
 
 ## Observações
 
-Dificuldade no fork
+Dificuldade no fork e no pull request
