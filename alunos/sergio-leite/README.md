@@ -1,1 +1,0 @@
-Sérgio Leite
